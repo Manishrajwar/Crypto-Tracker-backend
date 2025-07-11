@@ -26,6 +26,12 @@ The **Crypto Tracker **is a a full-stack cryptocurrency tracker that reflects re
 
 ---
 
+## .env file details 
+
+- **DATABASE_URL=<mongoDB_cluster_url>**
+- **FRONTEND_URL=<FRONTEND_URL>**
+- **PORT=5000**
+
 ## 📥 Installation & Running Locally
 
 Follow these simple steps to run the project on your machine:
